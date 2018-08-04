@@ -10,8 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "faker": "^4.1.0",
-    "nodemon": "^1.18.3",
-    "npm": "^6.2.0"
+    "nodemon": "^1.18.3",      /*de donde salen estas lineas Javi? Como se agregan? Ya que al agregar npm init -y me crea el package.json pero sin dicho codigo*/
+    "npm": "^6.2.0"            /*de donde salen estas lineas Javi? Como se agregan? Ya que al agregar npm init -y me crea el package.json pero sin dicho codigo */ 
   },
   "description": ""
 }
